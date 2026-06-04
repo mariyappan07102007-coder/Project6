@@ -165,6 +165,13 @@ These insights can help organizations develop **targeted retention strategies** 
 ## 👨‍💻 Author
 **Mariyappan I
 Output:
+<img width="971" height="806" alt="image" src="https://github.com/user-attachments/assets/3dda0a04-6c30-4125-83a5-a4d2529021d5" />
+<img width="900" height="673" alt="image" src="https://github.com/user-attachments/assets/cddeae42-cea7-44d0-b087-ddeab302e506" />
+<img width="913" height="703" alt="image" src="https://github.com/user-attachments/assets/c1affab8-be5e-4691-98d6-77fb8b8dee7c" />
+<img width="971" height="806" alt="image" src="https://github.com/user-attachments/assets/b203b014-9979-4d0e-8c1c-b04ba04689bc" />
+
+
+
 
 
 
